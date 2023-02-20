@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Minimalist One Product Shopify Store</title>
+  </head>
+  <body>
+    <header>
+      <h1>Product Title</h1>
+    </header>
+    <main>
+      <section>
+        <img src="product-image.jpg" alt="Product Image">
+        <p>Description of the product.</p>
+        <p>Price: $99.99</p>
+        <button>Add to Cart</button>
+      </section>
+    </main>
+    <footer>
+      <p>Contact us at info@yourstore.com</p>
+    </footer>
+  </body>
+</html>
